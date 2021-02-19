@@ -1,0 +1,124 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>PASTOR</title>
+<link href="css/multiColumnTemplate.css"  type="text/css">
+<style type="text/css">
+body {
+	margin-left: 50px;
+	margin-top: 50px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+}
+	body {
+	background-color: burlywood;
+
+	}
+</style>
+</head>.
+<body>
+<div>
+  <H1>  <img src="images/pastor.png" width="60" height="60" alt=""/><strong><u>PASTOR</u></strong></H1>
+  <H3>Grimoir de la cuisine</H3>
+</div>
+<div>
+  <ul>
+    <ul>
+      <ul>
+        <ul>
+          <ul>
+            <ul>
+              <ul>
+                <li><a href="#ACCUEIL">ACCUEIL</a> <a href="#BLOG">BLOG</a> <a href="#CV">CV</a> <a href="#CONTACT">CONTACT</a></li>
+              </ul>
+            </ul>
+          </ul>
+        </ul>
+      </ul>
+    </ul>
+  </ul>
+</div>
+<div>
+  <img src="images/bangkok.jpg" width="auto" height="auto" alt=""/>
+	<br>
+    </br>
+  <img src="images/separateur.png" width="auto" height="auto" alt=""/>
+</div>
+<div>
+  <H3> <img src="images/ico_epingle.png" width="43" height="47" alt=""/>JE SUIS UN GRAND GOURMAND</H3>
+  <p>Blablabla...Blablabla...Blablabla...Blablabla... <br>
+    </br>
+    Blablabla...Blablabla...Blablabla...Blablabla... <br>
+    </br>
+    Blablabla...Blablabla...Blablabla...Blablabla... <br>
+    </br>
+    Blablabla...Blablabla...Blablabla...Blablabla.. </p>
+</div>
+<div>
+  <h4><em>MON DERNIER TWEET </em></h4>
+  <p>lablabla...Blablabla...Blablabla...Blablabla... <br>
+    </br>
+    Blablabla...Blablabla...Blablabla...Blablabla...
+  <table width="357" border="1" align="center">
+    <tbody>
+      <tr>
+        <td width="347" height="220" align="right" bgcolor="#5A5B5E" style="text-align: center"><p><strong><em><u>A PROPOS DE L'AUTEUR</u></em></strong></p>
+          <p><img src="images/pastor.png" width="60" height="60" alt=""/></p>
+<em>Blablabla...Blablabla...Blablabla...Blablabla... <br>
+          </em>
+          <p><em><img src="images/facebook.png" width="42" height="42" alt=""/><img src="images/twitter.png" width="42" height="42" alt=""/><img src="images/vimeo.png" width="42" height="42" alt=""/><img src="images/rss.png" width="42" height="42" alt=""/><img src="images/flickr.png" width="42" height="42" alt=""/></em></p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div>
+  <table width="333" border="0" align="left">
+    <tbody>
+      <tr>
+        <td width="323"><h4> MON DERNIER TWEET </h4>
+          <em>Blablabla...Blablabla...Blablabla...Blablabla... <br>
+          </em></td>
+      </tr>
+    </tbody>
+  </table>
+  <table width="254" height="117" border="0" align="right">
+    <tbody>
+      <tr>
+        <td width="118"><strong><em>MES AMIS </em></strong></td>
+      </tr>
+      <tr>
+        <td><ul>
+            <li><a href="#Perceval">Perceval</a></li>
+            <li><a href="#Roi arthur">Roi arthur</a></li>
+            <li><a href="#leodagan">leodagan</a></li>
+            <li><a href="#karadoc">karadoc</a></li>
+          </ul></td>
+        <td width="126"><ul>
+            <li><a href="#Lancelot"></a><a href="#Merlim">Merlim</a></li>
+            <li><a href="#Lancelot">Lancelot</a></li>
+            <li><a href="#Bohort">Bohort</a></li>
+            <li><a href="#Guenievre">Guenievre</a></li>
+          </ul></td>
+      </tr>
+    </tbody>
+  </table>
+  </li>
+  </ul>
+</div>
+<div>
+  <table width="317" border="0" align="center">
+    <tbody>
+      <tr>
+        <td width="307"><h4> <u><em>MES PHOTOS</em></u></h4>
+          <ul>
+          <li> <img src="images/photo_min_1.jpg" width="120" height="90" alt=""/>
+         <img src="images/photo_min_2.jpg" width="120" height="90" alt=""/></li>
+          <img src="images/photo_min_4.jpg" width="120" height="90" alt=""/>
+           <img src="images/photo_min_3.jpg" width="120" height="90" alt=""/></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+</body>
+</html>
